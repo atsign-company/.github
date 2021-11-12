@@ -16,9 +16,6 @@ org, which hosts the open source repos for the @platform.
 These repos hold open source projects that aren't part of the @platform,
 which is why they're here rather than over at The @ Foundation.
 
-* [at_dockerfiles](https://github.com/atsign-company/at_dockerfiles) -
-Dockerfiles to create build, run and test images for Dart applications across
-multiple architectures.
 * [dump_cards](https://github.com/atsign-company/dump_cards) -
 Scripts to dump cards from a GitHub project column into a CSV file that can
 be imported into planningpoker.com
@@ -53,3 +50,10 @@ on our [Dev Blog](https://blog.atsign.dev/)
 
 ![EFF](https://atsign.dev/landing_page/2021-org-member-badge.png)
 ![Global Encryption Coalition](https://atsign.dev/landing_page/GEC-graphics-01.png)
+
+## Deprecated
+
+* [at_dockerfiles](https://github.com/atsign-company/at_dockerfiles) -
+Dockerfiles to create build, run and test images for Dart applications across
+multiple architectures. No longer needed now that the official Dart Docker
+image supports multiple architectures.
