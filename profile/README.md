@@ -16,6 +16,9 @@ org, which hosts the open source repos for the @platform.
 These repos hold open source projects that aren't part of the @platform,
 which is why they're here rather than over at The @ Foundation.
 
+* [certinfo-action](https://github.com/atsign-company/certinfo-action) -
+A GitHub Action to add the certinfo tool to a workflow so that certificates
+can be validated.
 * [dump_cards](https://github.com/atsign-company/dump_cards) -
 Scripts to dump cards from a GitHub project column into a CSV file that can
 be imported into planningpoker.com
