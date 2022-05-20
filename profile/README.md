@@ -1,8 +1,6 @@
 # The @ Company
 
-<img src="https://atsign.dev/assets/img/@dev.png?sanitize=true">
-
-### Now for a little internet optimism
+<img width=250px src="https://atsign.dev/assets/img/@platform_logo_grey.svg?sanitize=true">
 
 Welcome to The @ Company Github Organization, home to the creators of
 [The @ Platform](https://atsign.dev/docs/).
@@ -16,6 +14,8 @@ org, which hosts the open source repos for the @platform.
 These repos hold open source projects that aren't part of the @platform,
 which is why they're here rather than over at The @ Foundation.
 
+* [At_Swarm_Load](https://github.com/atsign-company/at_swarm_load) -
+GCE Custom metrics for 5m load average and root volume utilisation.
 * [certinfo-action](https://github.com/atsign-company/certinfo-action) -
 A GitHub Action to add the certinfo tool to a workflow so that certificates
 can be validated.
@@ -47,6 +47,7 @@ links and details of the @dev Program.
 You can also find posts about
 [dump_cards](https://blog.atsign.dev/planning-poker-without-copypaste-ckpfmtucu05a63as1gzwvhviv)
 and [labels](https://blog.atsign.dev/managing-github-labels-cknkggyk600utcqs144h8apz9)
+and [Google Cloud Custom Metrics](https://blog.atsign.dev/google-cloud-custom-metrics-cl16j2q2b05gujonv0h9x2dg5)
 on our [Dev Blog](https://blog.atsign.dev/)
 
 ## We are proud to sponsor
