@@ -2,7 +2,7 @@
 
 <img width=250px src="https://atsign.dev/assets/img/@platform_logo_grey.svg?sanitize=true">
 
-Welcome to The @ Company Github Organization, home to the creators of
+Welcome to the Atsign Github Organization, home to the creators of
 [The @ Platform](https://atsign.dev/docs/).
 
 You may also wish to take a look at
