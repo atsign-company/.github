@@ -3,7 +3,7 @@
 <img width=250px src="https://atsign.dev/assets/img/@platform_logo_grey.svg?sanitize=true">
 
 Welcome to the Atsign Github Organization, home to the creators of
-[The atPlatform](https://atsign.dev/docs/).
+[The atPlatform](https://docs.atsign.com).
 
 You may also wish to take a look at
 [The Atsign Foundation](https://github.com/atsign-foundation/)
@@ -41,8 +41,8 @@ base image is refreshed
 
 ## Developer resources
 
-[atsign.dev](https://atsign.dev) holds all of our Docs, Showcases, Community
-links and details of the atDev Program.
+[docs.atsign.com](https://docs.atsign.com) holds all of our Docs, Showcases,
+Community links and details of the atDev Program.
 
 You can also find posts about
 [dump_cards](https://blog.atsign.dev/planning-poker-without-copypaste-ckpfmtucu05a63as1gzwvhviv)
@@ -52,8 +52,8 @@ on our [Dev Blog](https://blog.atsign.dev/)
 
 ## We are proud to sponsor
 
-![EFF](https://atsign.dev/landing_page/2021-org-member-badge.png)
-![Global Encryption Coalition](https://atsign.dev/landing_page/GEC-graphics-01.png)
+![EFF](https://atsign.com/wp-content/uploads/2021/10/2021-org-member-badge.png.webp)
+![Global Encryption Coalition](https://atsign.com/wp-content/uploads/2021/10/GEC-graphics-01-1.png.webp)
 
 ## Deprecated
 
