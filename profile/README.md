@@ -61,6 +61,6 @@ on our [Dev Blog](https://blog.atsign.dev/)
 ## We are proud to sponsor
 
 <!-- pyml disable-num-lines 3 md013,md033-->
-<img height=120px src="https://atsign.com/wp-content/uploads/2023/03/eff-2023-member-org.png.webp" alt="EFF Org Member">
+<img height=120px src="https://atsign.com/wp-content/uploads/2025/01/2025-OrgMember.png.webp" alt="EFF Org Member">
 <img height=120px src="https://atsign.com/wp-content/uploads/2021/10/GEC-graphics-01-1.png.webp" alt="Global Encryption Coalition">
-<img height=120px src="https://atsign.com/wp-content/uploads/2023/08/LoRa-Alliance-horizontal600x300.png" alt="Lora Alliance">
+
